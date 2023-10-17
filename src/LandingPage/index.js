@@ -2,13 +2,13 @@ import './style.css';
 
 export default function LandingPage () {
     return (
-        <div className='modo-claro'>
+        <div className='modo-escuro'>
             <header>
                 <div className='limitar-secao topo'>
                     <img src='./assets/barbearia-logo.png' className='logo'/>
                     <button>
-                        <img src='./assets/moon.png'/>
-                        <span>Dark</span>
+                        <img src='./assets/sun.png'/>
+                        Light
                     </button>
                 </div>
             </header>

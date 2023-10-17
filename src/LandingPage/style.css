@@ -3,6 +3,11 @@
     color: #000;
 }
 
+.modo-escuro {
+    background-color: #232323;
+    color: #fff;
+}
+
 header {
     display: flex;
 }
@@ -18,6 +23,7 @@ header {
 .logo {
     width: auto;
     height: 100px;
+    
 }
 
 button {
