@@ -1,14 +1,30 @@
 import './style.css';
+import { useState } from 'react';
 
 export default function LandingPage () {
+
+    const [temaClaro, setTemaClaro] = useState(true);
+
+    /*const alterarTema = () => {
+        if(modoClaro === "modo-claro" ) {
+            setModoClaro("modo-escuro");
+        } else {
+            setModoClaro("modo-claro");
+        }
+    } */
+
+    const alterarTema = () => { /* Função que muda o tema da página */
+        setTemaClaro(!temaClaro);
+    }
+
     return (
-        <div className='modo-escuro'>
+        <div className={ temaClaro ? "modo-claro" : "modo-escuro"}> 
             <header>
                 <div className='limitar-secao topo'>
                     <img src='./assets/barbearia-logo.png' className='logo'/>
-                    <button>
-                        <img src='./assets/sun.png'/>
-                        Light
+                    <button onClick={alterarTema} className={temaClaro ? "modo-claro" : "modo-escuro"}>
+                        <img src={temaClaro ? './assets/sun.png' : './assets/moon.png'}/>
+                        {temaClaro ? 'Light' : 'Dark'}
                     </button>
                 </div>
             </header>
