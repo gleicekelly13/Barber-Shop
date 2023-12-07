@@ -1,4 +1,5 @@
 <h1 align = "center">Barber Shop</h1>
+<h2 align = "center">:page_facing_up: Descrição do projeto</h2>
 
 # Getting Started with Create React App
 
