@@ -1,5 +1,6 @@
 <h1 align = "center">Barber Shop</h1>
 <h2 align = "center">:page_facing_up: Descrição do projeto</h2>
+<p>Landing Page de uma barbearia, desenvolvida em React JS, que possui um botão para alterar a cor do tema.</p>
 
 # Getting Started with Create React App
 
