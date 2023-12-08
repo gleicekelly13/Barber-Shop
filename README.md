@@ -8,6 +8,12 @@
 <div align = "center">
 <img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/0c200298-e1c2-4fbe-875c-de693fd83968" width = "500" />
 </div>
+<br>
+
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/b943efaa-ff77-45b7-bd09-02c7ae020f96" width = "500" />
+</div>
+<br>
 
 # Getting Started with Create React App
 
