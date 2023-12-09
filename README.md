@@ -1,3 +1,20 @@
+<h1 align = "center">Barber Shop</h1>
+<h2 align = "center">:page_facing_up: Descrição do projeto</h2>
+<p>Landing Page de uma barbearia, desenvolvida em React JS, que possui um botão para alterar a cor do tema.</p>
+<br>
+
+## :desktop_computer: Desktop design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/0c200298-e1c2-4fbe-875c-de693fd83968" width = "500" />
+</div>
+<br>
+
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/b943efaa-ff77-45b7-bd09-02c7ae020f96" width = "500" />
+</div>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
