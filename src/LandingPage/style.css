@@ -80,3 +80,14 @@ button img {
     font-weight: 500;
     color: #b2987d;
 }
+
+@media screen and (max-width: 425px) {
+    .logo {
+        height: 80px;
+    }
+
+    button {
+        padding: 5px 8px;
+    }
+
+}
