@@ -16,6 +16,10 @@
 <br>
 
 ## :iphone: Mobile design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/6f894cfe-584b-414f-a0d0-13fb19430a73" width = "300" />
+</div>
 
 # Getting Started with Create React App
 
