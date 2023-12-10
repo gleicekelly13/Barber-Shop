@@ -35,6 +35,8 @@
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
   <li>Criar uma funcionalidade que permite alterar o tema da página através da ação do usuário;</li>
+  <li>Utilizar o State Hook para armazenar um valor booleano;</li>
+  <li>Utilizar o operador IF ternário e criar condicionais para manusear classes CSS, imagens e textos no código React.</li>
 </ul>
 
 # Getting Started with Create React App
