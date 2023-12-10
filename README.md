@@ -26,6 +26,8 @@
 <img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/e10d062d-3fb7-49c8-a38b-baaa0af89c90" width = "300" />
 </div>
 
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
