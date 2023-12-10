@@ -32,6 +32,8 @@
   Ao clicar novamente n o botão, o tema da página é alterado para claro, juntamente o ícone e o texto também mudam.</p>
 <br>
 
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
