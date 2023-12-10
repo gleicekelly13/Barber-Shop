@@ -33,6 +33,9 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Criar uma funcionalidade que permite alterar o tema da página através da ação do usuário;</li>
+</ul>
 
 # Getting Started with Create React App
 
