@@ -38,6 +38,10 @@
   <li>Utilizar o State Hook para armazenar um valor booleano;</li>
   <li>Utilizar o operador IF ternário e criar condicionais para manusear classes CSS, imagens e textos no código React.</li>
 </ul>
+<br>
+
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+
 
 # Getting Started with Create React App
 
