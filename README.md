@@ -22,6 +22,11 @@
 </div>
 <br>
 
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
+
 <div align = "center">
 <img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/e10d062d-3fb7-49c8-a38b-baaa0af89c90" width = "300" />
 </div>
