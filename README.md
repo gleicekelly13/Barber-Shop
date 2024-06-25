@@ -34,7 +34,7 @@
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>Ao clicar no botão do topo, o tema da página é alterado para escuro, consequentemente o ícone e o texto do botão também são alterados. 
-  Ao clicar novamente n o botão, o tema da página é alterado para claro, juntamente o ícone e o texto também mudam.</p>
+  Ao clicar novamente no botão, o tema da página é alterado para claro, juntamente o ícone e o texto também mudam.</p>
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
