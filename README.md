@@ -60,6 +60,7 @@
 
 - GitHub - [GleiceKelly](https://github.com/gleicekelly13)
 - LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
+<br>
 
 # Getting Started with Create React App
 
