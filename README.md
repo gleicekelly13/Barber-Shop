@@ -1,6 +1,6 @@
 <h1 align = "center">Barber Shop</h1>
 <h2 align = "center">:page_facing_up: Descrição do projeto</h2>
-<p>Projeto proposto no curso de React da DevMedia, consistte em uma Landing Page de uma barbearia, desenvolvida em React JS, que possui um botão para alterar a cor do tema.</p>
+<p>Projeto proposto no curso de React da DevMedia, consiste em uma Landing Page de uma barbearia, desenvolvida em React JS, que possui um botão para alterar a cor do tema.</p>
 <br>
 
 ## :desktop_computer: Desktop design
