@@ -23,8 +23,8 @@ export default function LandingPage () {
                 <div className='limitar-secao topo'>
                     <img src='./assets/barbearia-logo.png' className='logo'/>
                     <button onClick={alterarTema} className={temaClaro ? "modo-claro" : "modo-escuro"}>
-                        <img src={temaClaro ? './assets/sun.png' : './assets/moon.png'}/>
-                        {temaClaro ? 'Light' : 'Dark'}
+                        <img src={temaClaro ? './assets/moon.png' : './assets/sun.png'}/> 
+                        {temaClaro ? 'Dark' : 'Light'}
                     </button>
                 </div>
             </header>
