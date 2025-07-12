@@ -1,6 +1,6 @@
 <h1 align = "center">Barber Shop</h1>
 <h2 align = "center">:page_facing_up: Descrição do projeto</h2>
-<p>Landing Page de uma barbearia, desenvolvida em React JS, que possui um botão para alterar a cor do tema.</p>
+<p>Projeto proposto no curso de React da DevMedia, consiste em uma Landing Page de uma barbearia, desenvolvida em React JS, que possui um botão para alterar a cor do tema.</p>
 <br>
 
 ## :desktop_computer: Desktop design
@@ -13,6 +13,55 @@
 <div align = "center">
 <img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/b943efaa-ff77-45b7-bd09-02c7ae020f96" width = "500" />
 </div>
+<br>
+
+## :iphone: Mobile design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/6f894cfe-584b-414f-a0d0-13fb19430a73" width = "300" />
+</div>
+<br>
+
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/e10d062d-3fb7-49c8-a38b-baaa0af89c90" width = "300" />
+</div>
+<br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
+
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>Ao clicar no botão do topo, o tema da página é alterado para escuro, consequentemente o ícone e o texto do botão também são alterados. 
+  Ao clicar novamente no botão, o tema da página é alterado para claro, juntamente o ícone e o texto também mudam.</p>
+<br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Criar uma funcionalidade que permite alterar o tema da página através da ação do usuário;</li>
+  <li>Utilizar o State Hook para armazenar um valor booleano;</li>
+  <li>Utilizar o operador IF ternário e criar condicionais para manusear classes CSS, imagens e textos no código React.</li>
+</ul>
+<br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://barber-shop-delta-lilac.vercel.app/ </p>
+<br>
+
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+</ul>
+<br>
+
+# :sunglasses: Desenvolvedora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
 <br>
 
 # Getting Started with Create React App
