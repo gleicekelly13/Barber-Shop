@@ -6,24 +6,24 @@
 ## :desktop_computer: Desktop design
 <br>
 <div align = "center">
-<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/0c200298-e1c2-4fbe-875c-de693fd83968" width = "500" />
+<img src = "https://github.com/gleicekelly13/Barber-Shop/blob/main/public/assets/barber-shop_desktop_light.png" width = "500" />
 </div>
 <br>
 
 <div align = "center">
-<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/b943efaa-ff77-45b7-bd09-02c7ae020f96" width = "500" />
+<img src = "https://github.com/gleicekelly13/Barber-Shop/blob/main/public/assets/barber-shop_desktop_dark.png" width = "500" />
 </div>
 <br>
 
 ## :iphone: Mobile design
 <br>
 <div align = "center">
-<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/6f894cfe-584b-414f-a0d0-13fb19430a73" width = "300" />
+<img src = "https://github.com/gleicekelly13/Barber-Shop/blob/main/public/assets/barber-shop_mobile_light.png" width = "300" />
 </div>
 <br>
 
 <div align = "center">
-<img src = "https://github.com/gleicekelly13/Barber-Shop/assets/80974593/e10d062d-3fb7-49c8-a38b-baaa0af89c90" width = "300" />
+<img src = "https://github.com/gleicekelly13/Barber-Shop/blob/main/public/assets/barber-shop_mobile_dark.png" width = "300" />
 </div>
 <br>
 
